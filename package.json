@@ -10,6 +10,7 @@
     "test": "vitest run"
   },
   "dependencies": {
+    "02-basic-example": "file:",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
